@@ -1,7 +1,7 @@
 # FitSport
 FitSport is a web application that helps users improve their skills in sports by analyzing their strengths and weaknesses and recommending the skills they need to work on.
 
-**Demo**
+<!-- **Demo**
 
 You can access the demo version of FitSport at https://fitsport.onrender.com/. <br>
 Demo Video: https://www.loom.com/share/8a2ee0072ed04125ad7902ce09c184e8
@@ -57,4 +57,4 @@ If you have any questions or feedback, please contact us :
 https://www.linkedin.com/in/gurpal-singh-914060226/ <br>
 https://www.linkedin.com/in/amritpalsingh492/<br>
 https://www.linkedin.com/in/aditi-goyal-002706237/<br>
-https://www.linkedin.com/in/akash-x-11734b225/
+https://www.linkedin.com/in/akash-x-11734b225/ -->
